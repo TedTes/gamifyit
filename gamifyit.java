@@ -9,7 +9,7 @@ public class GamifyIt {
     private static Map<String, String[]> concepts = new HashMap<>();
 
     static {
-        // Simulated import (e.g., Feynman Vol 1, Ch 1: Motion)
+        // Simulated import (e.g., Feynman Vol 1, Ch 1: Motion) 
         concepts.put("Level1", new String[]{
             "Drop an object 20m (g=10m/s²). Guess the time!", // Puzzle
             "Why does it fall?", // Question
